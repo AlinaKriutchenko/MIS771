@@ -8,7 +8,7 @@ Live Dashboard page: https://wp.deakin.edu.au/staticSites/1706630498_akriutchenk
 Images/Image_dashboard.jpg
 
 
-![alt text](https://github.com/[AlinaKriutchenko]/[MIS771-Descriptive-Analytics-And-Visualisation]/blob/[Tableau | Live-Dashboard | Score: 80%]/Image_dashboard..jpg?raw=true)
+![alt text](https://github.com/[AlinaKriutchenko]/[MIS771-Descriptive-Analytics-And-Visualisation]/blob/Image_dashboard..jpg?raw=true)
 
 https://github.com/AlinaKriutchenko/MIS771-Descriptive-Analytics-And-Visualisation/blob/main/Tableau%20%7C%20Live-Dashboard%20%20%7C%20Score:%2080%25/Images/Image_dashboard.jpg
 
