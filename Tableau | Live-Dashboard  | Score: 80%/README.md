@@ -5,5 +5,4 @@ Main page: https://wp.deakin.edu.au/staticSites/1706630498_akriutchenko/17066304
 
 Live Dashboard page: https://wp.deakin.edu.au/staticSites/1706630498_akriutchenko/1706630498_20201013_185130/live-dashboard/
 
-![](images%20Image_dashboard.jpg)
-
+![](images/Image_dashboard.jpg)
