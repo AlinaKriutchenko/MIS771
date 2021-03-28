@@ -14,3 +14,5 @@ https://github.com/AlinaKriutchenko/MIS771-Descriptive-Analytics-And-Visualisati
 
 
 ![alt text](http://url/to/img.png)
+
+![Screenshot](Image_dashboard.jpg)
